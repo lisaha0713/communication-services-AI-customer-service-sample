@@ -155,7 +155,7 @@ From here, you have two options to implement ACS AI customer service sample.
 
     ![agent_view](docs/agent_view.png)
 
-## FAQ
+## FAQ 
 - How can I delete failed deployment?
     1. Delete the resource group from the resource group page.
     2. Go to subsciprtion that you created resource group for
